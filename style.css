@@ -50,6 +50,11 @@ nav {
 .hero {
     margin: 3em;
 }
+
+.hero{
+  width:100%;
+  overflow: hidden
+}
 /*
 
 .hero h1 {
